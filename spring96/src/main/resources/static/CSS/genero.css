@@ -1,0 +1,10 @@
+#form_wrapper {
+    width: 1000px;
+    height: 100%;
+    margin-left: 13%;
+    border-radius: 50px;
+    background-color: white;
+    padding: 2vh 10px;
+    border: rgb(216, 213, 213) 1px solid;
+    border-radius: 25px;
+}
